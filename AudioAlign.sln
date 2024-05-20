@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AudioAlign", "AudioAlign\AudioAlign.csproj", "{7742E5AD-81A6-4CE7-915D-EAA9C30AB6B1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurio", "..\Aurio\src\Aurio\Aurio.csproj", "{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{7742E5AD-81A6-4CE7-915D-EAA9C30AB6B1}.Release|x64.Build.0 = Release|x64
 		{7742E5AD-81A6-4CE7-915D-EAA9C30AB6B1}.Release|x86.ActiveCfg = Release|x86
 		{7742E5AD-81A6-4CE7-915D-EAA9C30AB6B1}.Release|x86.Build.0 = Release|x86
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|x64.Build.0 = Release|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF43CFD7-B5C0-4C99-8BC2-280EFDA1E93E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
